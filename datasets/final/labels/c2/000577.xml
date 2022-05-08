@@ -1,0 +1,26 @@
+<annotation>
+	<folder>c2</folder>
+	<filename>000577.jpg</filename>
+	<path>D:\datasets\datasets\final\images\c2\000577.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>643</width>
+		<height>642</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scissors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>164</ymin>
+			<xmax>476</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>
