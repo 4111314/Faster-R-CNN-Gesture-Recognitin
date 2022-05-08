@@ -1,0 +1,26 @@
+<annotation>
+	<folder>c0</folder>
+	<filename>000677.jpg</filename>
+	<path>D:\datasets\datasets\final\images\c0\000677.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>202</ymin>
+			<xmax>415</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>
